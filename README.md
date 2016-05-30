@@ -4,7 +4,7 @@ Requirements:
 
 Installation:
 
-    git clone git://github.com/kporras07/.vim.git ~/.vim
+    git clone git@github.com:Erian7/.vim.git
 
 Create symlinks:
 
